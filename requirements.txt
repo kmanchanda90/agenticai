@@ -6,3 +6,4 @@ langchain-community
 bs4
 faiss-cpu
 langchain-huggingface
+langchain-groq
