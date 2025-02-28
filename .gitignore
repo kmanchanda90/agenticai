@@ -1,6 +1,7 @@
 # Reference folders
 2-LangchainConti/
 3-Chatbots/
+7-Workflows-ref/
 
 # LangGraph debugging
 __pycache__/
